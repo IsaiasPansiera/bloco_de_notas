@@ -1,0 +1,22 @@
+{
+  "name": "bloco_de_notas",
+  "version": "1.0.0",
+  "description": "aplicativo para anotações",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsaiasPansiera/bloco_de_notas.git"
+  },
+  "author": "Isaias e Elias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsaiasPansiera/bloco_de_notas/issues"
+  },
+  "homepage": "https://github.com/IsaiasPansiera/bloco_de_notas#readme",
+  "devDependencies": {
+    "electron": "^26.1.0"
+  }
+}
